@@ -1,4 +1,5 @@
 # condensed
+* _Example Website : main.html (Check Code)
 * _**Exponentially**_ reduced _webpage generation time_. 
 * _Utility script_ with _**Javascript parser**_.
 * Script syntax is similar to _SQL_.
